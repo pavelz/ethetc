@@ -1,0 +1,67 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/web/projects/btc/spec/lib/etc_data_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        0,
+        0,
+        null,
+        null,
+        null
+      ],
+      "/home/web/projects/btc/lib/etc_data.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/home/web/projects/btc/lib/coin_data.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/home/web/projects/btc/spec/lib/eth_data_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/home/web/projects/btc/lib/eth_data.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1565802732
+  }
+}
